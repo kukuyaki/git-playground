@@ -1,4 +1,4 @@
-# this is my git playground
+# This is my git playground
 Hi! my tomodachi~ welcome to my git playground. I don't know why you are here but whatever!
 > Always have fun and respect others.
 
